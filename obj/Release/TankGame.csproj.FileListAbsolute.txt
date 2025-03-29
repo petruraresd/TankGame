@@ -1,0 +1,11 @@
+C:\Users\Rares\Desktop\TankGame\obj\Release\TankGame.csproj.AssemblyReference.cache
+C:\Users\Rares\Desktop\TankGame\obj\Release\TankGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rares\Desktop\TankGame\obj\Release\TankGame.Form1.resources
+C:\Users\Rares\Desktop\TankGame\obj\Release\TankGame.csproj.GenerateResource.cache
+C:\Users\Rares\Desktop\TankGame\bin\Release\TankGame.exe.config
+C:\Users\Rares\Desktop\TankGame\bin\Release\TankGame.exe
+C:\Users\Rares\Desktop\TankGame\bin\Release\TankGame.pdb
+C:\Users\Rares\Desktop\TankGame\obj\Release\TankGame.Properties.Resources.resources
+C:\Users\Rares\Desktop\TankGame\obj\Release\TankGame.csproj.CoreCompileInputs.cache
+C:\Users\Rares\Desktop\TankGame\obj\Release\TankGame.exe
+C:\Users\Rares\Desktop\TankGame\obj\Release\TankGame.pdb
